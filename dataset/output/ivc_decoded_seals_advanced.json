@@ -1,0 +1,722 @@
+{
+  "seg_00115": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00094": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00081": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00074": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00078": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00084": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00069": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00076": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00087": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00107": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00070": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00072": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00110": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00088": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00089": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00093": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00112": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9998
+    }
+  ],
+  "seg_00092": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9998
+    }
+  ],
+  "seg_00106": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9998
+    }
+  ],
+  "seg_00075": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9997
+    }
+  ],
+  "seg_00113": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9993
+    }
+  ],
+  "seg_00077": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9988
+    }
+  ],
+  "seg_00101": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9985
+    }
+  ],
+  "seg_00073": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9978
+    }
+  ],
+  "seg_00114": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9975
+    }
+  ],
+  "seg_00116": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9965
+    }
+  ],
+  "seg_00097": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9962
+    }
+  ],
+  "seg_00090": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9953
+    }
+  ],
+  "seg_00099": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9945
+    }
+  ],
+  "seg_00079": [
+    {
+      "sequence": [
+        "commodity"
+      ],
+      "confidence": 0.9944
+    }
+  ],
+  "seg_00118": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00539": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00551": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00550": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00549": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00548": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00547": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00546": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00545": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00544": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00543": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00542": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00541": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00540": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00535": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00553": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00533": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00531": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00530": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00528": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00527": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00526": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00525": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00524": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00520": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00519": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00517": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00516": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00552": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00554": [
+    {
+      "sequence": [
+        "title"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00109": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00111": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00096": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9999
+    }
+  ],
+  "seg_00103": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9998
+    }
+  ],
+  "seg_00108": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9998
+    }
+  ],
+  "seg_00104": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9996
+    }
+  ],
+  "seg_00102": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 0.9841
+    }
+  ],
+  "seg_00065": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00059": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00045": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00067": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00054": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00052": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00056": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00044": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00055": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00064": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00048": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00061": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00050": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00057": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00058": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00063": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00049": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00068": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00060": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00053": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00066": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00047": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "seg_00046": [
+    {
+      "sequence": [
+        "proper_name"
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

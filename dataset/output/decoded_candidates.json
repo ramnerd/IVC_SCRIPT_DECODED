@@ -1,0 +1,1262 @@
+{
+  "seg_00115": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00094": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00081": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00074": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00078": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00084": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00069": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00076": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00087": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00107": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00070": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00072": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00110": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00088": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00089": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00093": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00112": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00092": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00106": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00075": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00113": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00077": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00101": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00073": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00114": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00116": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00097": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00090": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00099": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00079": [
+    {
+      "words": [
+        "commodity"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "commodity",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00118": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00539": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00551": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00550": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00549": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00548": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00547": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00546": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00545": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00544": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00543": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00542": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00541": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00540": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00535": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00553": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00533": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00531": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00530": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00528": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00527": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00526": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00525": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00524": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00520": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00519": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00517": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00516": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00552": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00554": [
+    {
+      "words": [
+        "title"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "title",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00109": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00111": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00096": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00103": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00108": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00104": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00102": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00065": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00059": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00045": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00067": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00054": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00052": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00056": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00044": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00055": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00064": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00048": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00061": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00050": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00057": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00058": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00063": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00049": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00068": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00060": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00053": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00066": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00047": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ],
+  "seg_00046": [
+    {
+      "words": [
+        "proper_name"
+      ],
+      "score": 1.0,
+      "per_slot_meta": [
+        {
+          "slot": "proper_name",
+          "candidate_score": 1.0
+        }
+      ]
+    }
+  ]
+}

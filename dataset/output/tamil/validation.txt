@@ -1,0 +1,13 @@
+Validation Report
+=================
+Total sequences: 520
+Unique segments: 277
+Selected templates: 25
+
+Training coverage:
+ Covered positions: 497 / 908 -> 54.74%
+ Sequences with match: 90.14%
+
+Validation coverage:
+ Covered positions: 115 / 230 -> 50.00%
+ Sequences with match: 92.31%
